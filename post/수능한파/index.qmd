@@ -1,0 +1,14 @@
+---
+title: "수능과 한파"
+author: "파파윤 님"
+date: "2026-11-18"
+embed-resources: true
+---
+
+![](thumbnail.jpg){width=100%}
+
+![](1.png){width=100%}
+![](2.png){width=100%}
+![](3.png){width=100%}
+
+{{< include "draft.md" >}}
